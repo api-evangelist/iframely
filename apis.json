@@ -1,0 +1,61 @@
+{
+    "name": "Iframely",
+    "description": "Iframely gives you simple APIs to have all the Web's best media on your site and on all your users' devices.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11308-iframely.jpg",
+    "tags": [
+        "api service provider",
+        "embeddable",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/iframely\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Iframely",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11308-iframely.jpg",
+            "humanURL": "https:\/\/iframely.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/iframely-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/iframely-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/iframely"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/iframely.com\/docs"
+        },
+        {
+            "type": "Email",
+            "url": "support@iframely.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/iframely.com\/plans"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/iframely"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/iframely.com\/"
+        }
+    ]
+}
